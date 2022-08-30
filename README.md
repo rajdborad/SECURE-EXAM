@@ -23,7 +23,8 @@ p5. Login page and Quiz will be created by HTML, CSS, Javascript.
 ![image](https://user-images.githubusercontent.com/98679441/187493844-499bf167-c1e3-4aa4-8162-2d69e1d98cc8.png)
 
 2. Please be on screen during exam and Don;t leave mouse out of window
-![image](https://user-images.githubusercontent.com/98679441/187494950-b1c265f2-2bbe-48cd-a6e8-a1cb9dfc18d2.png)
+![not leave mouse](https://user-images.githubusercontent.com/98679441/187497909-4d38e2ea-2f71-4e4e-bd8f-89183cd23002.png)
+
 ![be on screen](https://user-images.githubusercontent.com/98679441/187495625-65f3dc7a-821e-4845-8aae-c9d7f1a29079.png)
 
 3. Result of exam
