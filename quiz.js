@@ -183,7 +183,7 @@ startCountdown();
 // mouse leave the screen
 
 document.onmouseleave = function () {
-  //alert("Please be on this window During Exam..");
+   //alert("Please be on this window During Exam..");
 }
 
 // tab switch
